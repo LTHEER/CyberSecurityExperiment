@@ -1,0 +1,1 @@
+#文件描述    --abod_test.py ———— abod算法测试用例    --edmund_abod.py ———— abod算法实现    --edmund_fastabod.py ———— fastabod算法的实现    --Fast_abod_model_test.py ———— fastabod算法模型测试（已经训练好的模型）    --FastABOD_UI.py ———— fastabod算法的界面实现    --FastABODModel_Test.py fastabod算法的测试
